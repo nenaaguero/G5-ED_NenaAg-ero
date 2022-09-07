@@ -1,0 +1,11 @@
+C:\Users\nenaa\source\repos\Hola_munda\Hola_munda\bin\Debug\Hola_munda.exe.config
+C:\Users\nenaa\source\repos\Hola_munda\Hola_munda\bin\Debug\Hola_munda.exe
+C:\Users\nenaa\source\repos\Hola_munda\Hola_munda\bin\Debug\Hola_munda.pdb
+C:\Users\nenaa\source\repos\Hola_munda\Hola_munda\bin\Debug\Hola_munda.xml
+C:\Users\nenaa\source\repos\Hola_munda\Hola_munda\obj\Debug\Hola_munda.vbproj.AssemblyReference.cache
+C:\Users\nenaa\source\repos\Hola_munda\Hola_munda\obj\Debug\Hola_munda.Resources.resources
+C:\Users\nenaa\source\repos\Hola_munda\Hola_munda\obj\Debug\Hola_munda.vbproj.GenerateResource.cache
+C:\Users\nenaa\source\repos\Hola_munda\Hola_munda\obj\Debug\Hola_munda.vbproj.CoreCompileInputs.cache
+C:\Users\nenaa\source\repos\Hola_munda\Hola_munda\obj\Debug\Hola_munda.exe
+C:\Users\nenaa\source\repos\Hola_munda\Hola_munda\obj\Debug\Hola_munda.xml
+C:\Users\nenaa\source\repos\Hola_munda\Hola_munda\obj\Debug\Hola_munda.pdb
