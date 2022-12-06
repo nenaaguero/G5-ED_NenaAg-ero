@@ -1,0 +1,7 @@
+C:\Users\marce\Downloads\abb\abb\bin\Debug\abb.exe.config
+C:\Users\marce\Downloads\abb\abb\bin\Debug\abb.exe
+C:\Users\marce\Downloads\abb\abb\bin\Debug\abb.pdb
+C:\Users\marce\Downloads\abb\abb\obj\Debug\abb.csprojAssemblyReference.cache
+C:\Users\marce\Downloads\abb\abb\obj\Debug\abb.csproj.CoreCompileInputs.cache
+C:\Users\marce\Downloads\abb\abb\obj\Debug\abb.exe
+C:\Users\marce\Downloads\abb\abb\obj\Debug\abb.pdb
