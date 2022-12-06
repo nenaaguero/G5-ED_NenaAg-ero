@@ -2,6 +2,6 @@ Para subir cambios al repositorio es necesario entrear a la carpeta en la que se
 
 0.- cd Desktop\G5-ED_NenaAg-ero
 1.- git status (ervisar nuevas modificaciones)
-2.- git add (agregar todos los archivos nuevos)
+2.- git add . (agregar todos los archivos nuevos)
 3.- git commit -m "descripcion commit"
 4.- git push (subir los cambios)
