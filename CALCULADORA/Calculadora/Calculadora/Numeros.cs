@@ -42,7 +42,7 @@ namespace Calculadora
                     txtOperacion = Math.Pow(Num, Num2);
                     break;
                 case "√":
-                    txtOperacion = Math.Sqrt(Num2);
+                    txtOperacion = Math.Sqrt(Num);
                     break;
             }
             return txtOperacion;
